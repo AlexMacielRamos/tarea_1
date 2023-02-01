@@ -1,10 +1,5 @@
 background-color: red;
 
-div.container {
-  text-align: center;
-}
-
-ul.myUL {
-  display: inline-block;
-  text-align: left;
-}
+body { 
+  margin: 0 auto; 
+} 
