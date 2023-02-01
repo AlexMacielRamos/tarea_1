@@ -1,5 +1,7 @@
 background-color: red;
 
 body { 
-  margin: 0 auto; 
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;margin: 0 auto; 
 } 
